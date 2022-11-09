@@ -1,5 +1,5 @@
-name: 'JS Linter',
-description: 'Run eslint on the project js code and publish report',
+name: 'JS Linter'
+description: 'Run eslint on the project js code and publish report'
 runs:
   using: 'node18'
   main: 'index.js'
