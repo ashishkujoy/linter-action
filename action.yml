@@ -1,6 +1,6 @@
 name: 'JS Linter'
 description: 'Run eslint on the project js code and publish report'
 runs:
-  using: 'node18'
+  using: 'node16'
   main: 'index.js'
 
