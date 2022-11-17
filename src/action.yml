@@ -1,0 +1,5 @@
+name: 'Node linter'
+description: 'Runs linter in node js project'
+runs:
+  using: 'node16'
+  main: 'index.js'
